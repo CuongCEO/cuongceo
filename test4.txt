@@ -1,0 +1,4 @@
+nhập  numpy  dưới dạng  np
+từ  giao hưởng . abc  nhập khẩu  một
+
+print ( "mean a =" , np . mean ( a , dtype = np . float64 ))
